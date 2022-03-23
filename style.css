@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("C:/Users/sukhe/Downloads/saitama.png") no-repeat center;
+    background: url("name card back.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
